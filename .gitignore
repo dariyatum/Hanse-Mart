@@ -1,8 +1,0 @@
-# Ignore everything
-*
-
-# Do NOT ignore wp-content folder
-!wp-content/
-
-# Allow all files inside wp-content
-!wp-content/**
