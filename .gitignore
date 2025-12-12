@@ -1,8 +1,9 @@
-# Ignore everything
-*
 
-# Allow wp-content folder
-!wp-content/
 
-# Allow all files and subfolders inside wp-content
-!wp-content/**
+/pages/
+
+
+/pages/**
+
+
+main.css
