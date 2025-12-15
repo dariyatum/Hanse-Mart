@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+:root{
+    --surface:#FCFBFC;
+    --btn:#000;
+    --green-btn:#8AAE27;
+    --main:#8AAE27;
+    --black-txt:#000;
+    --white:#fff;
+    --title:#000;
+    --green-txt:#8AAE27;
+    --border:0.2px solid grey;
+    --card-bg:#fff;
+}
+.back-btn {
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--black-txt);
+  text-decoration: none;
+  padding: 12px 20px;
+  background-color: var(--surface);
+}
+
+.back-btn:hover {
+  opacity: 0.7;
+}

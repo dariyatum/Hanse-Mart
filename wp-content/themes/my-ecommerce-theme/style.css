@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: var(--surface);
+}
+:root{
+    --surface:#FCFBFC;
+    --btn:#000;
+    --green-btn:#8AAE27;
+    --main:#8AAE27;
+    --black-txt:#000;
+    --white:#fff;
+    --title:#000;
+    --green-txt:#8AAE27;
+    --border:0.2px solid grey;
+    --card-bg:#fff;
+}
